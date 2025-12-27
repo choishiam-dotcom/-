@@ -1,0 +1,8 @@
+{
+  "name": "Luna Library - My Personal Reading Space",
+  "description": "An elegant, AI-powered personal library app for tracking your reading journey, notes, and getting personalized recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
